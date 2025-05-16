@@ -39,6 +39,7 @@ Press Play to begin simulation
 📄 User Manual
 A visual user manual is available to guide you through setup and interaction.
 📎 Click here to view/download the manual (PDF)
+https://drive.google.com/file/d/1VIqNFkRdU-8DrDwauY-s4YvDWUGkf8RH/view
 
 🧾 Project Information:
 Student: Noor Abouissa
