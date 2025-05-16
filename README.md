@@ -12,13 +12,19 @@ Family caregivers providing home care
 Individuals interested in learning first aid skills
 
 🧠 Key Features:
+
 ✅ Fully interactive 3D simulation
+
 ✅ Real-time error detection and guidance
+
 ✅ Final performance report with score and tips
+
 ✅ Built-in assistant with predefined answers
+
 ✅ Works on both VR headsets and desktop (non-VR)
 
 🔧 System Requirements:
+
 Unity 2021.3 LTS or later
 
 Oculus Quest 2 (optional for full VR experience)
@@ -38,9 +44,10 @@ Press Play to begin simulation
 
 📄 User Manual
 A visual user manual is available to guide you through setup and interaction.
-📎 Click here to view/download the manual (PDF)
-https://drive.google.com/file/d/1VIqNFkRdU-8DrDwauY-s4YvDWUGkf8RH/view
+📎 https://drive.google.com/file/d/1VIqNFkRdU-8DrDwauY-s4YvDWUGkf8RH/view
 
 🧾 Project Information:
+
 Student: Noor Abouissa
+
 University ID: 212220737
