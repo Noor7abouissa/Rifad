@@ -44,7 +44,9 @@ Press Play to begin simulation
 
 📄 User Manual
 A visual user manual is available to guide you through setup and interaction.
-📎 https://drive.google.com/file/d/1VIqNFkRdU-8DrDwauY-s4YvDWUGkf8RH/view
+
+📎 [https://drive.google.com/file/d/1VIqNFkRdU-8DrDwauY-s4YvDWUGkf8RH/view](https://drive.google.com/file/d/12gwtPBttYYVDhewbI96k4QGv1zJzVLF-/view?usp=sharing)
+
 
 🧾 Project Information:
 
